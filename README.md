@@ -21,10 +21,6 @@ A web application built with React, allowing users to transfer money and manage 
 - Source code for the PayTM money transfer App
 
 
-## Getting Started
-
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
 - Node.js
